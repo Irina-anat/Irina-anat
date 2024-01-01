@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a FrontEnd Developer 👋
 
 <!--
 **Irina-anat/Irina-anat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
