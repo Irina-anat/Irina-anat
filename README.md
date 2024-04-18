@@ -1,6 +1,5 @@
 ## Hey there 😄
 ### I'm a FrontEnd Developer 👋
-### My resume [link](https://github.com/Irina-anat/Resume.git)
 ### My stack:
 ![](./img/html.png)  ![](./img/css.png)  ![](./img/js.png)  ![](./img/react.png)  ![](./img/sass.png)    ![](./img/VS.png)  ![](./img/git_icon.png) ![](./img/git.png)
 
